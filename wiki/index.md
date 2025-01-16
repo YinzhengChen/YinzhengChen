@@ -12,3 +12,9 @@
 ![photo](https://github.com/YinzhengChen/YinzhengChen/blob/main/photo.png)
 
 - [cs2](https://www.counter-strike.net/cs2)
+
+
+## A List of My Goals
+- Learn advanced Markdown syntax.
+- Customize a GitHub Pages website.
+- Earn full points for this lab!
