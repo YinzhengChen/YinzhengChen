@@ -9,4 +9,4 @@
 
 - [csgo](https://www.counter-strike.net/)
 - 
-![Image description](https://github.com/YinzhengChen/YinzhengChen/blob/main/photo.png)
+![photo](https://github.com/YinzhengChen/YinzhengChen/blob/main/photo.png)
