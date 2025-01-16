@@ -18,3 +18,7 @@
 - Learn advanced Markdown syntax.
 - Customize a GitHub Pages website.
 - Earn full points for this lab!
+
+
+- *Italic Text*
+- `Inline Code`
