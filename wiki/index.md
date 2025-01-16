@@ -10,3 +10,5 @@
 - [csgo](https://www.counter-strike.net/)
 - 
 ![photo](https://github.com/YinzhengChen/YinzhengChen/blob/main/photo.png)
+
+- [cs2]([https://www.counter-strike.net/](https://www.counter-strike.net/cs2))
