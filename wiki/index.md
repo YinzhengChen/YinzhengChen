@@ -7,5 +7,5 @@
 
 - **next try**
 
-- [Link to another page](https://example.com)
+- [csgo](https://www.counter-strike.net/)
 ![Image description](https://example.com/image.png)
