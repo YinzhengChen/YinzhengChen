@@ -15,9 +15,9 @@
 
 
 ## A List
-- Learn advanced Markdown syntax.
+- Learn
 - Customize a GitHub Pages website.
-- Earn full points for this lab!
+- Ear
 
 
 - *Italic Text*
