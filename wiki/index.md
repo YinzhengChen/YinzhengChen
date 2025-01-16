@@ -14,7 +14,7 @@
 - [cs2](https://www.counter-strike.net/cs2)
 
 
-## A List of My Goals
+## A List
 - Learn advanced Markdown syntax.
 - Customize a GitHub Pages website.
 - Earn full points for this lab!
